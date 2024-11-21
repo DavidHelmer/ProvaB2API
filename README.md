@@ -1,11 +1,16 @@
-# ProvaB2API
+# Prova Segundo Bimestre 👋
+# API:
 
-### 1) Para instalar as dependencias
-```bash
-npm install
-```
+## Como iniciar
 
-### 2) Para iniciar o servidor
-```bash
-npm run dev
-```
+1. Instalando dependencias
+
+   ```bash
+   npm install
+   ```
+
+2. Inicie o servidor
+
+   ```bash
+    npm run dev
+   ```
