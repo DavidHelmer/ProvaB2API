@@ -1,15 +1,11 @@
-# Prova Segundo Bimestre 👋
-# API:
+# Prova B2
 
-## Como iniciar
-
-1. Instalando dependencias
-
+ ### 1) Para instalar as dependencias
    ```bash
    npm install
    ```
 
-2. Inicie o servidor
+### 2) Para iniciar o servidor
 
    ```bash
     npm run dev
